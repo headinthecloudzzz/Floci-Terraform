@@ -1,0 +1,3 @@
+floci_endpoint = "http://YOUR-FLOCI-HOST:4566"
+project        = "your-project"
+environment    = "dev"
